@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1049489506662",
+    "firebase_url": "https://cambridgewebsite-8dfa7.firebaseio.com",
+    "project_id": "cambridgewebsite-8dfa7",
+    "storage_bucket": "cambridgewebsite-8dfa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049489506662:android:3c2e83598c524a5a5608a7",
+        "android_client_info": {
+          "package_name": "com.codeaamy.cambridgeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049489506662-68lapj029dnnt0c4gj0enhh54vl7edkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3yV0aVAxLZJqUWOQ4zKwk8yXsdq9s4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049489506662-68lapj029dnnt0c4gj0enhh54vl7edkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049489506662-8a4vacu3habdi0qme3ks8qk9pfuf0dsn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codeaamy.cambridgeapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
